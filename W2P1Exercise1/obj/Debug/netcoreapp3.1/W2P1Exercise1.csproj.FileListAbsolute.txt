@@ -1,0 +1,13 @@
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.csprojAssemblyReference.cache
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.AssemblyInfo.cs
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.exe
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.deps.json
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.runtimeconfig.json
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.runtimeconfig.dev.json
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.dll
+E:\AKSHAY\dot net\W2P1Exercise1\bin\Debug\netcoreapp3.1\W2P1Exercise1.pdb
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.dll
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.pdb
+E:\AKSHAY\dot net\W2P1Exercise1\obj\Debug\netcoreapp3.1\W2P1Exercise1.genruntimeconfig.cache
