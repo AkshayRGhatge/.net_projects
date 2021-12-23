@@ -1,0 +1,13 @@
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.exe
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.deps.json
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.runtimeconfig.json
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.runtimeconfig.dev.json
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.dll
+E:\AKSHAY\dot net\W1Exercise3\bin\Debug\netcoreapp3.1\W1Exercise3.pdb
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.csprojAssemblyReference.cache
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.AssemblyInfo.cs
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.dll
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.pdb
+E:\AKSHAY\dot net\W1Exercise3\obj\Debug\netcoreapp3.1\W1Exercise3.genruntimeconfig.cache
