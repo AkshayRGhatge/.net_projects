@@ -1,0 +1,12 @@
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.exe
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.deps.json
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.runtimeconfig.json
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.runtimeconfig.dev.json
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.dll
+E:\AKSHAY\dot net\W2Exercise4\bin\Debug\netcoreapp3.1\W2Exercise4.pdb
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.AssemblyInfo.cs
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.dll
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.pdb
+E:\AKSHAY\dot net\W2Exercise4\obj\Debug\netcoreapp3.1\W2Exercise4.genruntimeconfig.cache
