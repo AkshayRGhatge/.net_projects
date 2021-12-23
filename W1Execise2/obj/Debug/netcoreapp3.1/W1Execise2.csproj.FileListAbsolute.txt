@@ -1,0 +1,12 @@
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.exe
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.deps.json
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.runtimeconfig.json
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.runtimeconfig.dev.json
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.dll
+E:\AKSHAY\dot net\W1Execise2\bin\Debug\netcoreapp3.1\W1Execise2.pdb
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.AssemblyInfo.cs
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.dll
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.pdb
+E:\AKSHAY\dot net\W1Execise2\obj\Debug\netcoreapp3.1\W1Execise2.genruntimeconfig.cache
