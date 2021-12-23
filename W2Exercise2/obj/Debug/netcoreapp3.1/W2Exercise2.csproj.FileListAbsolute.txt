@@ -1,0 +1,12 @@
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.AssemblyInfoInputs.cache
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.AssemblyInfo.cs
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.csproj.CoreCompileInputs.cache
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.exe
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.deps.json
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.runtimeconfig.json
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.runtimeconfig.dev.json
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.dll
+E:\AKSHAY\dot net\W2Exercise2\bin\Debug\netcoreapp3.1\W2Exercise2.pdb
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.dll
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.pdb
+E:\AKSHAY\dot net\W2Exercise2\obj\Debug\netcoreapp3.1\W2Exercise2.genruntimeconfig.cache
