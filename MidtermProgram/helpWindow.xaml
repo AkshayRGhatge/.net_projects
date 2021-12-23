@@ -1,0 +1,12 @@
+﻿<Window x:Class="MidtermProgram.helpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MidtermProgram"
+        mc:Ignorable="d"
+        Title="helpWindow" Height="450" Width="800">
+    <Grid Margin="0,10,0,-10" Background="#FFD9EFF1">
+        <Label  HorizontalAlignment="Left" Margin="10,144,0,0" VerticalAlignment="Top" Content=" Hi this is the assignment 1 in which there are 4 page: Customer, Airline , Flight, Passenger.&#xD;&#xA; In which the super user can perform crud operation , where as the regular user can only view the application" Height="44" FontSize="14" FontFamily="Calibri" FontWeight="Bold" Width="749"/>
+    </Grid>
+</Window>
